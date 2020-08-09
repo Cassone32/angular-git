@@ -5,7 +5,9 @@ Cada pasta possui diferentes conteúdos separados por módulos.
 
 # Módulos disponíveis:
 > 01: Básico: Aplicação Inicial com intuito de aprender componentes.
+  <br />
   Projetos disponíveis:
-  >01.01: AplicacaoInicial (Jedi Academy), inicial de Angular;
+  <br />
+  >01.01: AplicacaoInicial (Jedi Academy), inicial de Angular; e <br />
   >01.02: AplicacaoMEAT, aplicação baseada no iFood.
 
